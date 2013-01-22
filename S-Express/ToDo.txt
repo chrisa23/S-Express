@@ -1,0 +1,4 @@
+- clean up 
+- add tests
+- destructuring/analysis
+- better pretty printing
